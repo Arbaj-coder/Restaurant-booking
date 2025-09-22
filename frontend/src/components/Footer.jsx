@@ -15,7 +15,7 @@ const Footer = () => {
         
         <footer className="flex flex-col items-center justify-center w-full py-20 bg-[#09090B] text-white/70">
         
-            <img src={assets.logo} alt="" />
+            <img src={assets.test1} alt="" />
             <p className="mt-4 text-center">Copyright © 2025 All rights reservered.</p>
             <div className="flex items-center gap-4 mt-5">
                 <img src={assets.googlePlay} alt="" />
