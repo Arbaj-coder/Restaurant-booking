@@ -6,6 +6,7 @@ import profile from './profile.png'
 import jurrasic from './jurassic-world.jpg'
 import logoj from './logo-removebg-preview.png'
 import cofee_logo from './cofee_logo.png'
+import test1 from './test-1.png'
 export const assets = {
     logo,
     googlePlay,
@@ -14,7 +15,8 @@ export const assets = {
     profile,
     jurrasic,
     logoj,
-    cofee_logo
+    cofee_logo,
+    test1
 }
 
 export const dummyTrailers = [
